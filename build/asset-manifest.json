@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.338fd848.chunk.css",
+    "main.js": "/static/js/main.00ca2995.chunk.js",
+    "main.js.map": "/static/js/main.00ca2995.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d46584c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d46584c.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.11e7f45d.chunk.js": "/static/js/2.11e7f45d.chunk.js",
+    "static/js/2.11e7f45d.chunk.js.map": "/static/js/2.11e7f45d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9e14aca30311b4ef367a3c869d15ab1c.js": "/precache-manifest.9e14aca30311b4ef367a3c869d15ab1c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.338fd848.chunk.css.map": "/static/css/main.338fd848.chunk.css.map",
+    "static/media/index.css": "/static/media/iPhone.bab80cb6.png",
+    "static/media/christmas.mp3": "/static/media/christmas.8f063dfd.mp3",
+    "static/media/christmas2.mp3": "/static/media/christmas2.dac2a81b.mp3",
+    "static/media/christmas3.mp3": "/static/media/christmas3.af1147bd.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d46584c.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.11e7f45d.chunk.js",
+    "static/css/main.338fd848.chunk.css",
+    "static/js/main.00ca2995.chunk.js"
+  ]
+}
